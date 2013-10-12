@@ -22,5 +22,5 @@ I'm going to keep a journal of sorts to document my progress and thought process
 #####CONTACT
 I encourage anyone who stumbles upon this to get a hold of me with feedback. I believe constructive criticism and discussion are integral to the learning process.
 
-EMAIL: scarling@gmail.com
-TWITTER: @jenny_roses
+1. EMAIL: scarling@gmail.com
+2. TWITTER: @jenny_roses
